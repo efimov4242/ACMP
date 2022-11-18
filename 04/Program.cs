@@ -32,4 +32,5 @@ int GetMultiplySequence(int[] array)
 
 int[] someArray = {-7, 5, -1, 3, 9};
 
+
 System.Console.WriteLine(GetSumPositive(someArray) + " " + GetMultiplySequence(someArray));
